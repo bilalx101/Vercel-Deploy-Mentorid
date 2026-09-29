@@ -1,4 +1,4 @@
-git commit -m "feat: auto sync prisma schema on vercel build"generator client {
+generator client {
   provider = "prisma-client-js"
 }
 
