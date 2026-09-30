@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# User-added ignores
+dev.db
+*.db
+*.db-journal
+AGENTS.md
+CLAUDE.md
+PROJECT_CONTEXT.md
+.agents/
+.claude/
+.cursor/
+.devin/
